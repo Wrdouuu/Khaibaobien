@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\bin\Debug\net8.0\Khaibaobien.exe
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\bin\Debug\net8.0\Khaibaobien.deps.json
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\bin\Debug\net8.0\Khaibaobien.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\bin\Debug\net8.0\Khaibaobien.dll
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\bin\Debug\net8.0\Khaibaobien.pdb
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.dll
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\refint\Khaibaobien.dll
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.pdb
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\Khaibaobien.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\Khaibaobien\obj\Debug\net8.0\ref\Khaibaobien.dll
